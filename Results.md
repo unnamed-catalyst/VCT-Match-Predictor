@@ -1,7 +1,8 @@
 # Results
 
-### *DISCLAIMER:*
-#### *This model is not meant to be used as betting advice. The use of Stake.com was purely so I had something to compare the predictions against. I do not endorse or promote gambling, and I am not responsible for any losses from the use or misinterpretation of this project.*
+#### ⚠️ DISCLAIMER: ⚠️
+***This model is not meant to be used as betting advice. Stake.com odds were used purely for comparison purposes.*  
+*I do not endorse or promote gambling, and I am not responsible for any losses resulting from the use or misinterpretation of this project.***
 
 This page is being updated as the matches go on.
 
