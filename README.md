@@ -2,8 +2,8 @@
 
 A prediction system for VALORANT eSports matches, more specifically, Americas Stage 1 of the VALORANT Champions Tour 2025.
 
-## Dataset Used
-The dataset contains key statistics for every match from Americas Kickoff and Stage 1 so far, namely: Pistol Rounds Won, First Kills, KAST%, Clutch%, Eco Rounds Won, Semi-Eco Rounds Won, Half-Buy Rounds Won, Full-Buy Rounds Won, and XvY Conversions (eg: 5v1, 2v4, etc.)
+## Dataset
+A custom dataset was used which contains key statistics for every match from Americas Kickoff and Stage 1 so far, namely: Pistol Rounds Won, First Kills, KAST%, Clutch%, Eco Rounds Won, Semi-Eco Rounds Won, Half-Buy Rounds Won, Full-Buy Rounds Won, and XvY Conversions (eg: 5v1, 2v4, etc.) for each team.
 
 The data was gathered using rib.gg, a site which contains stats and analytics for all VALORANT eSports teams and matches. However, due to the lack of a public API for the mentioned statistics, the data was ***scraped using Selenium*** — an open-source tool for browser automation
 
