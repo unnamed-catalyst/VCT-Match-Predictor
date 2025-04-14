@@ -6,7 +6,7 @@
 
 This page is being updated as the matches go on.
 
-Latest update: 7th April 2024
+Latest update: 14th April 2024
 
 <div align="center">
 <table>
@@ -20,8 +20,8 @@ Latest update: 7th April 2024
   <tbody>
     <tr>
       <td align="center"><strong>Overall Accuracy</strong></td>
-      <td align="center"><strong>13/18 (72.22%)</strong></td>
-      <td align="center"><strong>15/18 (83.33%)</strong></td>
+      <td align="center"><strong>18/24 (75%)</strong></td>
+      <td align="center"><strong>20/24 (83.33%)</strong></td>
     </tr>
   </tbody>
 </table>
@@ -194,6 +194,63 @@ Latest update: 7th April 2024
       <td align="center"><strong>Accuracy</strong></td>
       <td align="center"><strong>6/6 (100%)</strong></td>
       <td align="center"><strong>6/6 (100%)</strong></td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+## Week 4 Results
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Match</th>
+      <th>Stake Prediction</th>
+      <th>Model Prediction</th>
+      <th>Actual Result</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">100T v 2G</td>
+      <td align="center">100T</td>
+      <td align="center">100T</td>
+      <td align="center">100T</td>
+    </tr>
+    <tr>
+      <td align="center">G2 v LEV</td>
+      <td align="center">G2</td>
+      <td align="center">G2</td>
+      <td align="center">G2</td>
+    </tr>
+    <tr>
+      <td align="center">FUR v C9</td>
+      <td align="center">C9</td>
+      <td align="center">C9</td>
+      <td align="center">C9</td>
+    </tr>
+    <tr>
+      <td align="center">SEN v LOUD</td>
+      <td align="center">SEN</td>
+      <td align="center">SEN</td>
+      <td align="center">SEN</td>
+    </tr>
+    <tr>
+      <td align="center">KRU v EG</td>
+      <td align="center">KRU</td>
+      <td align="center">KRU</td>
+      <td align="center">EG</td>
+    </tr>
+    <tr>
+      <td align="center">NRG v MIBR</td>
+      <td align="center">MIBR</td>
+      <td align="center">MIBR</td>
+      <td align="center">MIBR</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Accuracy</strong></td>
+      <td align="center"><strong>5/6 (83.33%)</strong></td>
+      <td align="center"><strong>5/6 (83.33%)</strong></td>
     </tr>
   </tbody>
 </table>
