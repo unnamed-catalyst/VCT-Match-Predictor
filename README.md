@@ -9,7 +9,7 @@ The data was gathered using rib.gg, a site which contains stats and analytics fo
 
 ## Methodology
 A ***Random Forest Classifier*** is used to predict the result of a match based on the two teams' average stats over the season. 
-At the end of each game week, match results are scraped to keep the dataset up to date, and predictions for the next week's matches are made. Additionally, the predictions are also compared to Stake betting odds purely as a means for comparison. 
+At the end of each game week, match results are scraped to keep the dataset up to date, and predictions for the next week's matches are made. Additionally, the predictions are also compared to Stake.com betting odds purely as a means for comparison. 
 
 
 #### ⚠️ DISCLAIMER: ⚠️
@@ -20,7 +20,7 @@ At the end of each game week, match results are scraped to keep the dataset up t
 ## Results
 The results are being updated as the matches go on. For results of each week individually, refer to [the Results page](Results.md).
 
-Latest update: 7th April 2024
+Latest update: 14th April 2024
 
 <div align="center">
 <table>
@@ -34,8 +34,8 @@ Latest update: 7th April 2024
   <tbody>
     <tr>
       <td align="center"><strong>Overall Accuracy</strong></td>
-      <td align="center"><strong>13/18 (72.22%)</strong></td>
-      <td align="center"><strong>15/18 (83.33%)</strong></td>
+      <td align="center"><strong>18/24 (75%)</strong></td>
+      <td align="center"><strong>20/24 (83.33%)</strong></td>
     </tr>
   </tbody>
 </table>
