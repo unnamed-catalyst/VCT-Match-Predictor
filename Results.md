@@ -293,7 +293,7 @@ Latest update: 21st April 2024
       <td align="center">KRU</td>
     </tr>
     <tr>
-      <td align="center">EG v LOUDtd>
+      <td align="center">EG v LOUD</td>
       <td align="center">EG</td>
       <td align="center">LOUD</td>
       <td align="center">EG</td>
