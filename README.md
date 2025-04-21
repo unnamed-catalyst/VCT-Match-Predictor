@@ -20,7 +20,7 @@ At the end of each game week, match results are scraped to keep the dataset up t
 ## Results
 The results are being updated as the matches go on. For results of each week individually, refer to [the Results page](Results.md).
 
-Latest update: 14th April 2024
+Latest update: 21st April 2024
 
 <div align="center">
 <table>
@@ -34,8 +34,8 @@ Latest update: 14th April 2024
   <tbody>
     <tr>
       <td align="center"><strong>Overall Accuracy</strong></td>
-      <td align="center"><strong>18/24 (75%)</strong></td>
-      <td align="center"><strong>20/24 (83.33%)</strong></td>
+      <td align="center"><strong>22/30 (73.33%)</strong></td>
+      <td align="center"><strong>24/30 (80%)</strong></td>
     </tr>
   </tbody>
 </table>
