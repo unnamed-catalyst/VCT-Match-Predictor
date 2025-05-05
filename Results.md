@@ -4,10 +4,6 @@
 ***This model is not meant to be used as betting advice. Stake.com odds were used purely for comparison purposes.*  
 *I do not endorse or promote gambling, and I am not responsible for any losses resulting from the use or misinterpretation of this project.***
 
-This page is being updated as the matches go on.
-
-Latest update: 21st April 2024
-
 <div align="center">
 <table>
   <thead>
@@ -20,8 +16,8 @@ Latest update: 21st April 2024
   <tbody>
     <tr>
       <td align="center"><strong>Overall Accuracy</strong></td>
-      <td align="center"><strong>22/30 (73.33%)</strong></td>
-      <td align="center"><strong>24/30 (80%)</strong></td>
+      <td align="center"><strong>29/42 (69.04%)</strong></td>
+      <td align="center"><strong>33/42 (78.57%)</strong></td>
     </tr>
   </tbody>
 </table>
@@ -308,6 +304,113 @@ Latest update: 21st April 2024
       <td align="center"><strong>Accuracy</strong></td>
       <td align="center"><strong>4/6 (66.67%)</strong></td>
       <td align="center"><strong>4/6 (66.67%)</strong></td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+## Playoffs Results
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Match Header</th>
+      <th>Match</th>
+      <th>Stake Prediction</th>
+      <th>Model Prediction</th>
+      <th>Actual Result</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">Upper Round 1</td>
+      <td align="center">MIBR v 100T</td>
+      <td align="center">MIBR</td>
+      <td align="center">MIBR</td>
+      <td align="center">MIBR</td>
+    </tr>
+    <tr>
+      <td align="center">Upper Round 1</td>
+      <td align="center">SEN v C9</td>
+      <td align="center">SEN</td>
+      <td align="center">SEN</td>
+      <td align="center">SEN</td>
+    </tr>
+    <tr>
+      <td align="center">Lower Round 1</td>
+      <td align="center">100T v NRG</td>
+      <td align="center">NRG</td>
+      <td align="center">100T</td>
+      <td align="center">100T</td>
+    </tr>
+    <tr>
+      <td align="center">Lower Round 1</td>
+      <td align="center">C9 v EG</td>
+      <td align="center">C9</td>
+      <td align="center">C9</td>
+      <td align="center">EG</td>
+    </tr>
+    <tr>
+      <td align="center">Upper Semifinals</td>
+      <td align="center">KRU v MIBR</td>
+      <td align="center">MIBR</td>
+      <td align="center">MIBR</td>
+      <td align="center">MIBR</td>
+    </tr>
+    <tr>
+      <td align="center">Upper Semifinals</td>
+      <td align="center">G2 v SEN</td>
+      <td align="center">G2</td>
+      <td align="center">G2</td>
+      <td align="center">SEN</td>
+    </tr>
+    <tr>
+      <td align="center">Lower Round 2</td>
+      <td align="center">KRU v EG</td>
+      <td align="center">KRU</td>
+      <td align="center">KRU</td>
+      <td align="center">EG</td>
+    </tr>
+    <tr>
+      <td align="center">Lower Round 2</td>
+      <td align="center">G2 v 100T</td>
+      <td align="center">G2</td>
+      <td align="center">G2</td>
+      <td align="center">G2</td>
+    </tr>
+    <tr>
+      <td align="center">Upper Final</td>
+      <td align="center">MIBR v SEN</td>
+      <td align="center">MIBR</td>
+      <td align="center">SEN</td>
+      <td align="center">SEN</td>
+    </tr>
+    <tr>
+      <td align="center">Lower Round 3</td>
+      <td align="center">G2 v EG</td>
+      <td align="center">G2</td>
+      <td align="center">G2</td>
+      <td align="center">G2</td>
+    </tr>
+    <tr>
+      <td align="center">Lower Final</td>
+      <td align="center">MIBR v G2</td>
+      <td align="center">G2</td>
+      <td align="center">G2</td>
+      <td align="center">G2</td>
+    </tr>
+    <tr>
+      <td align="center">Grand Final</td>
+      <td align="center">SEN v G2</td>
+      <td align="center">G2</td>
+      <td align="center">G2</td>
+      <td align="center">G2</td>
+    </tr>
+    <tr>
+      <td align="center"></td>
+      <td align="center"><strong>Accuracy</strong></td>
+      <td align="center"><strong>7/12 (58.33%)</strong></td>
+      <td align="center"><strong>9/12 (75%)</strong></td>
     </tr>
   </tbody>
 </table>
